@@ -3,7 +3,7 @@ import MainCarousel from './components/Carousel'
 import Navbar from './components/Navbar'
 import DigpMessage from './components/DigMessage'
 import QuickLink from './components/QuickLink'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
